@@ -1,0 +1,49 @@
+# Maven target directory
+/target/
+
+# IDE-specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+*.class
+
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# NetBeans-specific files
+/nb-configuration.xml
+
+# Visual Studio Code specific files
+.vscode/
+
+# Compiled bytecode
+*.class
+
+# Logs
+log/
+*.log
+
+# Maven specific files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.nexus
+release.properties
+dependency-reduced-pom.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Local Directories #
+.idea/
+.target/
+.mvn/
+
